@@ -60,7 +60,7 @@ class _TextPostState extends State<TextPost> {
               ),
               child: ElevatedButton(
                 onPressed: () {
-                  _companyWebsite
+                 _companyWebsite();
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.transparent,
