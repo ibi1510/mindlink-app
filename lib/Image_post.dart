@@ -58,7 +58,9 @@ class _ImagePostState extends State<ImagePost> {
                 borderRadius: BorderRadius.circular(15),
               ),
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  _image();
+                },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.transparent,
                   shadowColor: Colors.transparent,
