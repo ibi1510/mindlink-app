@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303071323142",
+    "project_id": "mind-link-7a1cb",
+    "storage_bucket": "mind-link-7a1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303071323142:android:28670791962d7c5e6ccf87",
+        "android_client_info": {
+          "package_name": "com.example.mindlinkk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRgn6apyKYai_Mp59kut13jHWiq7dUW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
