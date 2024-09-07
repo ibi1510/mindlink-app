@@ -59,7 +59,9 @@ class _TextPostState extends State<TextPost> {
                 borderRadius: BorderRadius.circular(15),
               ),
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  _companyWebsite
+                },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.transparent,
                   shadowColor: Colors.transparent,
